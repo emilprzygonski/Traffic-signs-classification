@@ -8,3 +8,6 @@ Dataset contains ~50k images of german traffic signs. There are 42 different cla
 The purpose of this project is make deep convolutional network for multi-class problem which is traffic signs classification and then implement trained model in GUI.
 
 Dataset from: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+##
+Deep learning model was made in Jupyter Notebook, GUI was made in Python.
