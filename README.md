@@ -11,8 +11,7 @@ Dataset from: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-s
 ## Example images
 
 ![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_1.png)
-img[alt=alt text] { width: 200px; }
-![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_2.png?=100x)
-![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_3.png?=100x)
+![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_2.png)
+![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_3.png)
 ##
 Deep learning model was made in Jupyter Notebook, GUI was made in Python.
