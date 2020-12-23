@@ -9,8 +9,8 @@ The purpose of this project is make deep convolutional network for multi-class p
 
 Dataset from: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 ## Example images
-
-![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_1.png?raw=true)
+=250x
+![alt text](https://github.com/emilprzygonski/Traffic-signs-classification/blob/main/Example%20images/GUI_1.png)
 
 ##
 Deep learning model was made in Jupyter Notebook, GUI was made in Python.
